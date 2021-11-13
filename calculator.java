@@ -19,7 +19,6 @@ public class calculator {
         System.out.println("Operador (+,-,*,/):");
         op = reader.nextLine();
 
-
         switch (op) {
             case "+":
                 result = sum(n1, n2);
