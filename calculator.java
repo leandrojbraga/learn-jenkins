@@ -9,6 +9,7 @@ public class calculator {
         String op = "";
         Double result = 0.0;
         
+        
         System.out.println("Primeiro número:");
         n1 = reader.nextDouble();
         System.out.println("Segundo número:");
