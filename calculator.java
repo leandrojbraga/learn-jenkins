@@ -1,5 +1,3 @@
-package com.dlbraga.learning;
-
 import java.util.Scanner;
 
 public class calculator {
